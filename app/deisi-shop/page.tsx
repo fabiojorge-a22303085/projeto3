@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 import React from 'react'
 import { useEffect, useState } from 'react';
 import { Product } from '@/models/interfaces';
@@ -130,7 +132,7 @@ export default function DeisiShopPage() {
                 key={product.id}
                 className="bg-white rounded-lg shadow-md p-4 flex items-center gap-4 mb-4"
               >
-                <img
+                <Image
                   src={product.image}
                   alt={product.title}
                   className="w-16 h-16 rounded-md object-cover"

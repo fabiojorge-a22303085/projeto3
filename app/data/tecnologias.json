@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "title": "HTML",
+      "image": "/images/html-logo.png",
+      "description": "HTML é a linguagem padrão usada para criar páginas web.",
+      "rating": 4.9
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "image": "/images/css-logo.png",
+      "description": "CSS é usado para estilizar e definir o layout das páginas web.",
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "title": "JavaScript",
+      "image": "/images/javascript-logo.png",
+      "description": "JavaScript é uma linguagem de programação que permite adicionar interatividade às páginas web.",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "title": "JSON",
+      "image": "/images/json-logo.png",
+      "description": "JSON é um formato leve de troca de dados, amplamente utilizado em APIs.",
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "API RESTful",
+      "image": "/images/api-restful-logo.png",
+      "description": "APIs RESTful seguem um estilo arquitetural que permite comunicação entre sistemas de forma eficiente.",
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "title": "Swagger",
+      "image": "/images/swagger-logo.png",
+      "description": "Swagger é uma ferramenta usada para documentar e testar APIs RESTful.",
+      "rating": 4.5
+    },
+    {
+      "id": 7,
+      "title": "GitHub",
+      "image": "/images/github-logo.png",
+      "description": "GitHub é uma plataforma para hospedar código-fonte e controlo de versão usando Git.",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "title": "Codespaces",
+      "image": "/images/codespaces-logo.png",
+      "description": "GitHub Codespaces oferece um ambiente de desenvolvimento configurado na nuvem.",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "title": "GitHub Pages",
+      "image": "/images/github-pages-logo.png",
+      "description": "GitHub Pages permite armazenar sites estáticos diretamente do repositório do GitHub.",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "title": "React.js",
+      "image": "/images/react-logo.png",
+      "description": "React.js é uma biblioteca JavaScript para construir interfaces de usuário baseadas em componentes.",
+      "rating": 4.9
+    },
+    {
+      "id": 11,
+      "title": "Next.js",
+      "image": "/images/nextjs-logo.png",
+      "description": "Next.js é um framework React para construção de aplicações web com renderização no servidor.",
+      "rating": 4.9
+    },
+    {
+      "id": 12,
+      "title": "Vercel",
+      "image": "/images/vercel-logo.png",
+      "description": "Vercel é uma plataforma de hospedagem e deploy de sites e aplicações, focada em desenvolvedores.",
+      "rating": 4.8
+    }
+  ]
+  
+  

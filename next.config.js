@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["deisishop.pythonanywhere.com"], // Adicione o domínio das imagens aqui
+    domains: ["deisishop.pythonanywhere.com"], // Adicione seu domínio aqui
   },
 };
 
